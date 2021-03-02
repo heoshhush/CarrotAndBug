@@ -1,7 +1,7 @@
 # CarrotAndBug
 
 <ol>
-  <li><strong>프로젝트 이름</strong> : Rabbit and Bug Game</li>
+  <li><strong>프로젝트 이름</strong> : Carrot and Bug Game</li>
   <li><strong>사용 언어</strong> : HTML, CSS, vanila Javascript</li>
   <li><strong>주요 기능</strong> 
     <ul>
