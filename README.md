@@ -1,4 +1,4 @@
-# RabbitAndBug
+# CarrotAndBug
 
 <ol>
   <li><strong>프로젝트 이름</strong> : Rabbit and Bug Game</li>
