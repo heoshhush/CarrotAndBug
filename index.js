@@ -147,7 +147,7 @@ field.addEventListener('click', (event) => {
     
     // 클릭한 당근 삭제
     const dataset = event.target.dataset
-    if(dataset.id)
+    if(dataset.id){
     bg__carrotPull.play()
     const toBeDelete = document.querySelector(`img[data-id="${dataset.id}"]`)
     toBeDelete.remove();
